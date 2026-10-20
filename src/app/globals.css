@@ -1,0 +1,14 @@
+@import 'tailwindcss';
+
+/* Design tokens. Components use these names (bg-surface, text-ink, ...) rather than raw colours. */
+@theme {
+  --color-surface: #fffaf5;
+  --color-surface-raised: #ffffff;
+  --color-ink: #2b1d1a;
+  --color-ink-muted: #6b5a55;
+  --color-brand: #9f1d35;
+  --color-brand-strong: #7c1529;
+  --color-border: #e8dcd3;
+
+  --font-sans: ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+}

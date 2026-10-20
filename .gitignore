@@ -1,0 +1,27 @@
+# dependencies
+/node_modules
+
+# next.js / build output
+/.next/
+/.swc/
+/out/
+/build
+next-env.d.ts
+*.tsbuildinfo
+
+# testing
+/coverage
+
+# environment — only the documented template is committed
+.env*
+!.env.example
+
+# deployment
+.vercel
+
+# logs
+npm-debug.log*
+
+# OS / editor
+.DS_Store
+*.pem

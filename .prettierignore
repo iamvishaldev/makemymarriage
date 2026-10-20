@@ -1,0 +1,10 @@
+.next
+coverage
+node_modules
+package-lock.json
+next-env.d.ts
+
+# Source specifications are kept exactly as authored.
+docs/PRD.md
+docs/System_Design.md
+docs/Database_Design.md
